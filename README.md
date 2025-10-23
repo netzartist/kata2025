@@ -4,7 +4,6 @@ This is a team submission for [Architectural Katas Q4 2025: AI-Enabled Architect
 
 # Team "HAL 42 Ultrathinkers" 🤯
 
-Engineers from [Boehringer Ingelheim](https://boehringer-ingelheim.com)
 - [Henry Levinson](https://github.com/henry-levinson)
 - [Kamal Shaham](https://github.com/kshaham)
 - [Henrich Krämer](https://github.com/henrjk)
@@ -42,6 +41,10 @@ Engineers from [Boehringer Ingelheim](https://boehringer-ingelheim.com)
 8. **[ADR-008: Dynamic Pricing Engine for Revenue Optimization](ADRs/ADR-008-dynamic-pricing-engine.md)**
 
 9. **[ADR-009: Multi-Tenancy and Geographic Partitioning Strategy](ADRs/ADR-009-multi-tenancy-geographic-partitioning.md)**
+
+# Trade-Offs
+
+[Trade-Offs](Tradeoffs.md)
 
 # Usage Prediction System
 

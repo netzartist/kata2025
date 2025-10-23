@@ -17,7 +17,7 @@ Engineers from [Boehringer Ingelheim](https://boehringer-ingelheim.com)
 
 # System Overview
 
-TODO from  https://excalidraw.com/#room=afaacad8584555f43b85,058oNxUAHdeZt-9TekkBVA ![System Overview](SystemOverview.png)
+![System Overview](SystemOverview.png)
 
 # ADRs
 

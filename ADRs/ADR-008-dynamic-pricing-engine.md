@@ -25,6 +25,7 @@ TODO
 **Negative**:
 - Hybrid system complexity (3 layers to maintain)
 - ML model maintenance and monitoring overhead
+- Dynamic pricing also means intransparency in pricing for our users. This can be seen negatively by them.
 
 ## Integration Points
 
